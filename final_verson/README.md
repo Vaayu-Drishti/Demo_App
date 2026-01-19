@@ -90,8 +90,6 @@ These are already configured in `android/app/src/main/AndroidManifest.xml` and `
 Static analysis:
 
 ```powershell
-
-hi hello
 flutter analyze
 ```
 
